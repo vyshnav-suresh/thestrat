@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'NunitoSans-Light';
+    src: url('../styles/font/static/NunitoSans_10pt-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'NunitoSans-Medium';
+    src: url('../styles/font/static/NunitoSans_10pt-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'NunitoSans-Bold';
+    src: url('../styles/font/static/NunitoSans_10pt-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'NunitoSans-Regular';
+    src: url('../styles/font/static/NunitoSans_10pt-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
